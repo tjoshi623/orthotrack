@@ -1,1 +1,5 @@
-{"name":"orthotrack","private":true}
+{
+  "name": "orthotrack",
+  "private": true,
+  "packageManager": "pnpm@9.0.0"
+}

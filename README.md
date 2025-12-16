@@ -1,3 +1,3 @@
 # OrthoTrack
 
-Initial scaffold for OrthoTrack registry.
+Full starter scaffold with backend and frontend code.
